@@ -1,3 +1,10 @@
 body{
-    background: white;
+    background: #BDBDBD;
+}
+.img {
+    background-image: url(https://picsum.photos/id/1019/600/300)
+}
+.creativa {
+    background-color: rgba(255, 255, 255,0.8);
+    text-align: center;
 }
